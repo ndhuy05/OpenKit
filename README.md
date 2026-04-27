@@ -10,16 +10,20 @@ Drop this kit into any project and get a full suite of AI development workflows 
 
 ## Installation
 
-Move to your existing project and run:
+Install the kit:
 
 ```bash
 npm install @ndhuy05/openkit
 ```
 
-This installs the package and automatically copies `.opencode/` to your project.
+Initialize OpenKit in your project:
+
+```bash
+npx ok init
+```
 
 > [!NOTE]
-> Restart OpenCode after installing to see the new commands in the slash menu.
+> Restart OpenCode after initializing to see the new commands in the slash menu.
 
 ### Prerequisites
 
