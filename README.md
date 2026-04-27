@@ -13,13 +13,13 @@ Drop this kit into any project and get a full suite of AI development workflows 
 Install the kit:
 
 ```bash
-npm install @ndhuy05/openkit
+npm install -g @ndhuy05/openkit
 ```
 
-Initialize OpenKit in your project:
+Initialize OpenKit in your existing project:
 
 ```bash
-npx ok init
+openkit init
 ```
 
 > [!NOTE]
